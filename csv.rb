@@ -1,3 +1,6 @@
+# 5631378321	Siwat Thumvilai
+# 5631313521	Yodpab Pannara
+
 require 'csv'
 csv = Array.new
 name = Array.new
