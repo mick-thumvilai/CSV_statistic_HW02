@@ -75,6 +75,8 @@ end
 puts "The highest score is #{maxScore}"
 puts "The lowest score is #{minScore}"
 puts "Mean of the class is #{mean}"
+puts "Most favorited color #{favoriteColor}"
+puts "least favorited color #{badColor}"
 puts "capitalized name: "
 name.each do |x|
 	puts x.join(" ")
